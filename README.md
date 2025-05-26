@@ -8,7 +8,7 @@ This implementation includes several scalar multiplication algorithms with diffe
 
 - Basic binary method (`qmul1`)
 - Improved binary method (`qmul2`)
-- M-ary method (`qmul3`)
+- $2^k$-ary method (`qmul3`)
 - Optimized M-ary method (`qmul_opt`)
 - M-ary with binary-sparse optimization (`qmul_opt_without_W`)
 - Sliding window method (`sliding_window_mul`)
