@@ -1,6 +1,6 @@
-# ECC Implementation with Side-Channel Protection
+# M-ary Precomputation-Based Accelerated Scalar Multiplication Algorithms for Enhanced Elliptic Curve Cryptography
 
-This repository contains a partial implementation of our elliptic curve cryptography (ECC) implementation with side-channel protection mechanisms. The full implementation, including the complete verification framework, will be released upon paper acceptance.
+This repository contains a partial implementation of our M-ary Precomputation-Based ECC implementation with side-channel protection mechanisms. The full implementation, including the complete verification framework, will be released upon paper acceptance.
 
 ## Overview
 
